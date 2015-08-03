@@ -5,7 +5,7 @@ require 'text-angular-rails/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "text-angular-rails"
-  spec.version       = Text::Angular::Rails::VERSION
+  spec.version       = TextAngular::Rails::VERSION
   spec.authors       = ["Jeremy Denquin"]
   spec.email         = ["jeremy@flamefy.com"]
 

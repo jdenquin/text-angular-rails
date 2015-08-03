@@ -1,7 +1,5 @@
-module Text
-	module Angular
-		module Rails
-			VERSION = "1.4.0"
-		end
+module TextAngular
+	module Rails
+		VERSION = "1.4.1"
 	end
 end
