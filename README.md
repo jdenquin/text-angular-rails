@@ -2,7 +2,7 @@
 
 ## Presentation
 
-Rails package for textAngular https://github.com/fraywing/textAngular
+Rails package for textAngular https://github.com/textAngular/textAngular
 
 ## Installation
 
