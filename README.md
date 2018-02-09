@@ -1,4 +1,4 @@
-# text-angular-rails v 1.4.0
+# text-angular-rails v 1.5.16
 
 ## Presentation
 
@@ -25,15 +25,15 @@ Or install it yourself as:
 In your application.js manifest:
 
 	//= require text-angular
-    //= require text-angular-sanitize
-    //= require text-angular-rangy
+  //= require text-angular-sanitize
+  //= require text-angular-rangy
 
 In your application.css manifest:
 
 	//=require text-angular
 
 ## Requirements
-	
+
 See basic textAngular requirements here https://github.com/fraywing/textAngular
 
 ## Contributing
